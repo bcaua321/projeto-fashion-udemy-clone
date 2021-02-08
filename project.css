@@ -41,7 +41,7 @@ body{
 #navegacao a:hover{
     color: white;
     position: relative;
-    top: 1.5px;
+    top: 1px;
     left: 1px;
 }
 
